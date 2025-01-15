@@ -1,0 +1,62 @@
+ [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "category": "Computer",
+      "brand": "HP",
+      "price": 999,
+      "stock": 50,
+      "image": "./public/images/lapi.png",
+      "description": "Powerful laptop with a quad-core i5 processor, 8GB RAM, 256GB SSD, and a 14-inch FHD display."
+    },
+    {
+      "id": 2,
+      "name": " Smartphone",
+      "category": "mobiles",
+      "brand": "Iphone",
+      "price": 7999,
+      "stock": 200,
+      "image": "./public/images/iphone.png",
+      "description": "Feature-rich smartphone with a 6.2-inch screen, 12MP dual camera, 128GB storage, and a 4000mAh battery."
+    },
+    {
+      "id": 3,
+      "name": "Wireless Headphones",
+      "category": "Audio",
+      "brand": "Boat",
+      "price": 1499,
+      "stock": 150,
+      "image": "./public/images/headphone.png",
+      "description": "High-quality wireless headphones with over-ear design, 20 hours of battery life, and a sleek black color."
+    },
+    {
+      "id": 4,
+      "name": "Watches",
+      "category": "Wearables",
+      "brand": "Boat",
+      "price": 4999,
+      "stock": 30,
+      "image": "./public/images/watch.png",
+      "description": "Smartwatch with a 1.3-inch AMOLED display, water-resistant design, fitness tracking features, and a stylish silver color."
+    },
+    {
+      "id": 5,
+      "name": "Speaker",
+      "category": "Audio",
+      "brand": "JBL",
+      "price": 199,
+      "stock": 20,
+      "image": "./public/images/speakers.png",
+      "description": "High-quality wireless headphones with over-ear design, 20 hours of battery life, and a sleek black color."
+    },
+    {
+      "id": 6,
+      "name": "Television",
+      "category": "Video",
+      "brand": "LG",
+      "price": 5999,
+      "stock": 100,
+      "image": "./public/images/tv.png",
+      "description": "Smartwatch with a 1.3-inch AMOLED display, water-resistant design, fitness tracking features, and a stylish silver color."
+    }
+  ]
